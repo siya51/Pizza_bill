@@ -27,7 +27,7 @@ public class bills {
 			System.out.println(pizzas[i].getName());
 			System.out.println("\n =====");
 			totalAmount=pizzas[i].getPrice()*pizzas[i].quantity;
-			System.out.print("  "+pizzas[i].getPrice());2
+			System.out.print("  "+pizzas[i].getPrice());
 			System.out.print("  "+pizzas[i].quantity);
 		}
 		System.out.println("\n ==============================");
